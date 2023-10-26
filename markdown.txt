@@ -1,0 +1,7 @@
+- your_project_directory/
+  - public/
+    - index.html
+    - styles.css
+    - script.js
+  - server.js
+  - package.json
